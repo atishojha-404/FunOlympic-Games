@@ -8,55 +8,81 @@ This is Web based application.
 ## Screenshots
 
 ### Landing Page
-<img src="https://user-images.githubusercontent.com/78890102/184354062-3675ce17-1b1e-416d-a226-ba573a11d6df.png">
-![image](https://user-images.githubusercontent.com/78890102/204784112-df52b011-c447-456a-9ee5-0d7b2cc87f89.png)
-
+<img src="https://user-images.githubusercontent.com/78890102/204784233-0f429275-0d30-41e6-aa28-3874974dbd53.png">
 
 ---
 
-### Main Forms
-
-We have two main form one for Admin and another for Normal Users which is given below
-
-#### Admin Form
-<img src="https://user-images.githubusercontent.com/78890102/184354375-f0476f8a-fae5-42de-8d6a-d5d8e8ed51eb.png">
-
-#### Normal User Form
-<img src="https://user-images.githubusercontent.com/78890102/184354385-83ce9e77-436c-4c81-aa83-e8b1f32aa353.png">
+### Sign-In Page
+<img src="https://user-images.githubusercontent.com/78890102/204786350-6dbd09f8-48af-4e12-a611-0a068b4e5522.png">
 
 ---
 
-### Register Form
-<img src="https://user-images.githubusercontent.com/78890102/184354519-88eafbca-8c3b-4f24-bc56-5a84ceb849a4.png">
+### Sign-Up Page
+<img src="https://user-images.githubusercontent.com/78890102/204786589-35286fed-6ef2-48c1-a70b-6156d10bdaa3.png">
 
 ---
 
-### Change Password Form
-<img src="https://user-images.githubusercontent.com/78890102/184354625-8584dcee-29a2-468c-8904-af7ae436c15e.png">
+### Forgot Password Page
+<img src="https://user-images.githubusercontent.com/78890102/204786887-b1e261cc-191c-4046-b770-87af2f4cf721.png">
 
 ---
 
-### Category Form
-<img src="https://user-images.githubusercontent.com/78890102/184354744-a5603f70-fdb8-46ea-85e2-e7259093d829.png">
+### Home Page
+<img src="https://user-images.githubusercontent.com/78890102/204787011-7ee136f1-5bed-4b04-86bb-a4d02842f2e3.png">
 
 ---
 
-### Customer Supplier Form
-<img src="https://user-images.githubusercontent.com/78890102/184354851-718fb14d-f4a7-4c69-b881-4662cb35d478.png">
+### Sign-Up Page
+<img src="">
 
 ---
 
-### Product Form
-<img src="https://user-images.githubusercontent.com/78890102/184354974-62552ca1-8dc9-4645-9c98-1c30e9abe388.png">
+### Sign-Up Page
+<img src="">
 
 ---
 
-### Unit Form
-<img src="https://user-images.githubusercontent.com/78890102/184355111-6c6e2a77-dded-4176-b2c8-05eab40f6e7f.png">
+### Sign-Up Page
+<img src="">
 
 ---
 
-### Purchase sale Form
-<img src="https://user-images.githubusercontent.com/78890102/184355216-825d5ee1-8fd3-4c0e-89bf-bd4df1910da5.png">
+### Sign-Up Page
+<img src="">
 
 ---
+
+### Sign-Up Page
+<img src="">
+
+---
+
+### Sign-Up Page
+<img src="">
+
+---
+
+### Sign-Up Page
+<img src="">
+
+---
+
+### Sign-Up Page
+<img src="">
+
+---
+
+### Sign-Up Page
+<img src="">
+
+---
+
+### Sign-Up Page
+<img src="">
+
+---
+
+
+
+
+
